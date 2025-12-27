@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
@@ -16,9 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0048-rotate-image) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
