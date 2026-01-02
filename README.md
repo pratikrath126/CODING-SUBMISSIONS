@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -68,4 +69,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
