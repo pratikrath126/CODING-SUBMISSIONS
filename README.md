@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
