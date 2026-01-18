@@ -1,12 +1,12 @@
 class Solution {
     public int mySqrt(int x) {
-        long low=0;
-        long high=x;
-        long ans=1;
+        int low=0;
+        int high=x;
+        int ans=1;
         
         while(low<=high){
-            long mid=(low+high)/2;
-            long val=mid*mid;
+            int mid=(low+high)/2;
+            long val=(long)mid*mid;
             if(val<=x){
                 ans=mid;
                 low=mid+1;
@@ -14,6 +14,6 @@ class Solution {
             else
                 high=mid-1;
         }
-        return (int)ans;//or high as it is first possible ans low is first not possible ans
+        return ans;//or high as it is first possible ans low is first not possible ans
     }
 }
