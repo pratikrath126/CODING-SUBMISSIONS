@@ -155,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0278-first-bad-version) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
