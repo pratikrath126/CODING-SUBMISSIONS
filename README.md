@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Interactive
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
