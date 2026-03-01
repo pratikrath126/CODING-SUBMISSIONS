@@ -1,19 +1,21 @@
 class Solution {
     public String reverseWords(String s) {
         String ans="";
+        s.trim();
         s=reverse(s);
         for(int i=0;i<s.length();i++){
-            while(i<s.length() && s.charAt(i)==' ') i++;
-            if(i==s.length()) break;
+            
             String word="";
             while(i<s.length() && s.charAt(i)!=' '){
                 word+=s.charAt(i++);
             }
+            if(word.length()>0){
             word=reverse(word);
             if(ans.length()>0)
                 ans+=" "+word;
             else
                 ans+=word;
+            }
         }
         return ans;
     }
