@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0152-maximum-product-subarray) |
@@ -234,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
