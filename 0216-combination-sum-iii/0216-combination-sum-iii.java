@@ -9,7 +9,7 @@ class Solution {
                 ans.add(new ArrayList<>(ds));
                 return;
         }
-        if(ds.size()>=k || sum>n || num>9)
+        if(ds.size()==k || sum>n || num>9)
             return;
         ds.add(num);
         sum+=num;
