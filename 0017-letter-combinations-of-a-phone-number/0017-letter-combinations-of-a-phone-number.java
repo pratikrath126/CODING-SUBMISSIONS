@@ -1,5 +1,7 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
+        if(digits==null || digits.length()==0)
+            return new ArrayList<>();
         Map<Character,String> letters=new HashMap<>();
         letters.put('2',"abc");
         letters.put('3',"def");
