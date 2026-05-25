@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
@@ -248,4 +250,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
