@@ -13,11 +13,12 @@ class Solution {
             while(n>=(d<<(count+1))){
                 count++;
             }
-            q+=1<<count;
+            q+=1L<<count;
             n-=(d<<count);
         }
-        if(q==1<<31 && sign==true)
+        if(q==1L<<31 && sign==true)
             return Integer.MAX_VALUE;
+    
         
         return sign?(int)q:-(int)q;
     }
