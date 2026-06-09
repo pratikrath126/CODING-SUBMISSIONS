@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0231-power-of-two) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
