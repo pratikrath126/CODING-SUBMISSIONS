@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0090-subsets-ii) |
@@ -245,12 +246,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/2220-minimum-bit-flips-to-convert-number) |
