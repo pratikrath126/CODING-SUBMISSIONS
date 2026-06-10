@@ -1,6 +1,6 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        long xor=0;
+        int xor=0;
         for(int i=0;i<nums.length;i++)
             xor=xor^nums[i];
         int b1=0;
