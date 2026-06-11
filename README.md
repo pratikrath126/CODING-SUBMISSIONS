@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0240-search-a-2d-matrix-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/2965-find-missing-and-repeated-values) |
@@ -259,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratikrath126/CODING-SUBMISSIONS/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
