@@ -7,11 +7,12 @@ class Solution {
         while(r<nums.length){
             if(nums[r]==0)
                 zero++;
-            while(zero>k){
+            if(zero>k){
                 if(nums[l]==0) zero--;
                 l++;
             }
-            ans=Math.max(ans,r-l+1);
+            if(zero<=k)
+             ans=Math.max(ans,r-l+1);
             r++;
         }
         return ans;
